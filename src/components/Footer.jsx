@@ -3,14 +3,14 @@ import React from 'react'
 
 export default function Footer() {
     return (
-        <footer class="bg-gray-100 text-gray-800">
-            <div class="max-w-7xl mx-auto px-4 py-10 grid gap-10 sm:grid-cols-2 md:grid-cols-4">
+        <footer className="bg-gray-100 text-gray-800">
+            <div className="max-w-7xl mx-auto px-4 py-10 grid gap-10 sm:grid-cols-2 md:grid-cols-4">
 
                 <div>
                     <h1 className="text-3xl font-bold flex items-center">
                         Order<span className="ml-1 bg-gray-900 text-white px-1 rounded">UK</span>
                     </h1>
-                    <div class="flex mt-4 space-x-2">
+                    <div className="flex mt-4 space-x-2">
                         <Image src="/images/appstore.png" alt="App Store" width={100} height={100} />
                         <Image src="/images/playstore.png" alt="Google Play" width={100} height={100} />
                     </div>
