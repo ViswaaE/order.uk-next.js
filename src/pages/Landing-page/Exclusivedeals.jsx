@@ -6,12 +6,12 @@ function Exclusivedeals() {
             <div className="flex justify-between items-center mb-6">
                 <h2 className="text-2xl font-bold text-gray-800">Up to -40% <span className="text-orange-500">Order.uk exclusive
                     deals</span></h2>
-                <div className="flex space-x-4">
+                {/* <div className="flex space-x-4">
                     <span className="text-gray-600 px-4 py-2 rounded-full hover:bg-gray-200 cursor-pointer">Vegan</span>
                     <span className="text-gray-600 px-4 py-2 rounded-full hover:bg-gray-200 cursor-pointer">Sushi</span>
                     <span className="bg-orange-500 text-white px-4 py-2 rounded-full cursor-pointer">Pizza & Fast food</span>
                     <span className="text-gray-600 px-4 py-2 rounded-full hover:bg-gray-200 cursor-pointer">others</span>
-                </div>
+                </div> */}
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <div className="relative bg-white rounded-xl shadow-lg overflow-hidden">

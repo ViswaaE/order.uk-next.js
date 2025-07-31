@@ -3,6 +3,8 @@ import Herosection from './Herosection'
 import Exclusivedeals from './Exclusivedeals'
 import PopularCategories from './PopularCategories'
 import PopularRestaurants from './PopularRestaurants'
+import FaqSection from '@/components/Faq'
+import StatsBar from '@/components/Statsbar'
 
 function Landingpage() {
     return (
@@ -12,6 +14,8 @@ function Landingpage() {
                 <Exclusivedeals />
                 <PopularCategories />
                 <PopularRestaurants />
+                <FaqSection />
+                <StatsBar />
             </div>
 
         </div>
