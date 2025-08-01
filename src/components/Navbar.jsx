@@ -70,7 +70,7 @@ export default function App() {
           {/* Desktop Navigation Links */}
           <ul className="hidden lg:flex items-center space-x-8">
             <li>
-              <a href="#" className="px-4 py-2 bg-orange-500 text-white rounded-full font-semibold hover:bg-orange-600 transition-colors duration-300">
+              <a href="/" className="px-4 py-2 bg-orange-500 text-white rounded-full font-semibold hover:bg-orange-600 transition-colors duration-300">
                 Home
               </a>
             </li>
