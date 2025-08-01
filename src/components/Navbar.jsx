@@ -85,7 +85,7 @@ export default function App() {
               </a>
             </li>
             <li>
-              <a href="#" className="text-gray-700 hover:text-orange-500 font-semibold transition-colors duration-300">
+              <a href="/Restaurant-Detail" className="text-gray-700 hover:text-orange-500 font-semibold transition-colors duration-300">
                 Restaurants
               </a>
             </li>
@@ -141,7 +141,7 @@ export default function App() {
             </a>
           </li>
           <li>
-            <a href="#" className="block w-full text-center text-gray-700 hover:text-orange-500 font-semibold transition-colors duration-300 py-2">
+            <a href="/Restaurant-Detail" className="block w-full text-center text-gray-700 hover:text-orange-500 font-semibold transition-colors duration-300 py-2">
               Restaurants
             </a>
           </li>
